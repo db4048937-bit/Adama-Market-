@@ -1,0 +1,6 @@
+{
+  "name": "Adama Market",
+  "description": "Public marketplace for Adama featuring verified Phone, Car, Home, and Electric listings with direct owner contact and posting hotline +251992558349.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
